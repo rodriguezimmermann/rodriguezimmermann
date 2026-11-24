@@ -1,7 +1,7 @@
 # Hello, I'm Rodrigue 👋
 
 ```
-I'm a 16-year-old developer and project builder. I've been passionate about IT and how web platforms work since
+I'm a 18-year-old developer and project builder. I've been passionate about IT and how web platforms work since
 I got my first computer at age 10. I love creating, learning, and exploring new technologies.
 
 🔨 I'm currently working on developing social web platforms that are more energy-efficient and privacy-friendly.
